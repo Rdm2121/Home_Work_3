@@ -83,3 +83,6 @@ public class DZ3 {
         return max;
     }
 }
+    /*
+    6.-----
+     */
